@@ -14,8 +14,8 @@ pygame.init()
 pygame.font.init()
 pygame.mixer.init()
 
-pygame.mixer.music.load("./music/2015-09-25_-_Old_Video_Game_Music_1_-_David_Fesliyan.wav")
-pygame.mixer.music.play(loops=-1)
+#pygame.mixer.music.load("./music/2015-09-25_-_Old_Video_Game_Music_1_-_David_Fesliyan.wav")
+#pygame.mixer.music.play(loops=-1)
 #Create the screen W,H
 screen = pygame.display.set_mode((800,600))
 

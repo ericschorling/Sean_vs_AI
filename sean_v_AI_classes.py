@@ -243,7 +243,7 @@ def question_obj_create():
 
 
     #endgame question
-    final_question = Question(["class Warrior(SEAN):","def__init__(****, all_powers)", "super().__init__(your_passion)","****.your_passion = your_passion"],"self","Who can truly be the hero...? ")
+    final_question = Question(["class Warrior(SEAN):","    def __init__(____, all_powers)", "    super().__init__(your_passion)","    ____.your_passion = your_passion"],"self","Who can truly be the hero...? ")
     end_game_q = [final_question]
     #Array for all the question arrays
     questions_array=[lvl1_ques_arr, lvl2_ques_arr, lvl3_ques_arr, lvl4_ques_arr, end_game_q]
