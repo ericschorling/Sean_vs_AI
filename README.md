@@ -1,5 +1,5 @@
 ## Sean Vs AI 
-Sean is a master coder who has a date with destiny. As 'Sean' the user solves coding problems to defeat an evil AI, who has hacked into DigitalCrafts. Sean gets help from David to defeat the evil Ai and save DigitalCrafts.
+Sean is a master coder who has a date with destiny. As 'Sean' the user solves coding problems to defeat an evil AI, who has hacked into DigitalCrafts. Sean gets help from David to defeat the evil AI and save DigitalCrafts.
 
 ## Motivation behind the game 
 To create a game that was inviting for entry level programmers who are familiar with using dictionaries, booleans, if and then statements, and for loops. 
