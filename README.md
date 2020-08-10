@@ -2,7 +2,7 @@
 Sean is the master coder who has a date with destiny or the evil Ai who is trying to hack into DigitalCrafts. Sean is receiving help from David to defeat the evil Ai to save DigitalCrafts.
 
 ## Motivation behind the game 
-To create a game that was inviting to entry level programmers who are familiar with using dictionaries, booleans, if and then statements, and for loops. 
+To create a game that was inviting for entry level programmers who are familiar with using dictionaries, booleans, if and then statements, and for loops. 
 
 ## Tools used 
 * Python 3
